@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">DAM_AndreFernandez</string>
+    <string name="Registro_Examen_de_Admision">Registro Examen de Admision</string>
+    <string name="Registro_Admision">Registro Admision</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellidos">Apellidos</string>
+    <string name="Fecha_Nacimiento">Fecha de Nacimiento</string>
+    <string name="Genero">Genero</string>
+    <string name="Clave">Clave</string>
+    <string name="Apellidos_Nombres">Apellidos y Nombres</string>
+    <string name="Ing_Ambiental">Ing_Ambiental</string>
+    <string name="Ing_Ambientall">Ing.Ambiental</string>
+    <string name="Ing_Sistemas">Ing.Sistemas\n</string>
+    <string name="Ing_Mecanica">Ing.Mecánica</string>
+    <string name="Administracion">Administracion</string>
+    <string name="Carreras">Carreras</string>
+    <string name="Radio">Radio</string>
+    <string name="Internet">Internet</string>
+    <string name="Publicidad">Publicidad</string>
+    <string name="Amigo">Amigo</string>
+    <string name="Pregunta">¿Por qué medio se enteró de la convocatoria?</string>
 </resources>
